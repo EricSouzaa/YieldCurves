@@ -33,8 +33,6 @@ Fonte: U.S. Department of the Treasury
 
 ```python
 import matplotlib.pyplot as plt
-import numpy as np
-from IPython.core.pylabtools import figsize
 
 labels = ['1 Mo','3 Mo','6 Mo','1 Yr','2 Yr','3 Yr','5 Yr','7 Yr','10 Yr','20 Yr','30 Yr']
 
